@@ -1,3 +1,3 @@
 # lte2024602-TiendaJuegos
 
-Esta repo esta desarrollado para ejecturar pruebas de QA
+Esta repo esta desarrollado en otra rama
